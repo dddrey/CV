@@ -14,6 +14,8 @@ You can check a brief story about me [here.](https://generationp.themoscowtimes.
 
 – [NOB Agency](http://nobagency.com/)
 
+– [Computer Craphics](http://computercraphics.com/) (React.js, Webpack, Sass)
+
 – [MI University](https://mi.university/) (Rails, Postgres, Sidekiq, Deployment, Ubuntu, Nginx, Frontend stuff)
 
 – [radio.syg.ma](https://radio.syg.ma/) (Rails, Postgres, React.js, Deployment, Amazon S3, Nginx, Icecast&Libretime server, Apache2)
