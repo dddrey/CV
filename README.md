@@ -1,27 +1,61 @@
-## Andrey Drachev
+Andrey Drachev
+====================
 
-I'm a self-taught full stack developer, specialized on a web. 
+### Contact
 
-You can check a brief story about me [here.](https://generationp.themoscowtimes.com/andrei/)
+**Email**
+[drachyov.andrew@gmail.com](drachyov.andrew@gmail.com)
 
-## Experience
+**Telegram**
+[t.me/dddrey](http://t.me/dddrey)
 
-**Freelance** (November, 2016 – till now) 
+### About
 
-– [4s4r](4s4r.ru/) (React.js, Webpack, Sass, Amazon S3)
 
-– [Sever Network](http://sever.network/) (JS, Sass)
+I'm a self-taught full stack developer specialized on a web. You can check a brief story about me [here](https://generationp.themoscowtimes.com/andrei/).
 
-– [NOB Agency](http://nobagency.com/)
+### Work
 
-– [Computer Craphics](http://computercraphics.com/) (React.js, Webpack, Sass)
+#### Freelance (November, 2016 – till now)
 
-– [MI University](https://mi.university/) (Rails, Postgres, Sidekiq, Deployment, Ubuntu, Nginx, Frontend stuff)
+**Фосфор** //
+site: [4s4r.ru](http://4s4r.ru/), code: [github](https://github.com/4s4r/4s4r.github.io/tree/develop)
 
-– [radio.syg.ma](https://radio.syg.ma/) (Rails, Postgres, React.js, Deployment, Amazon S3, Nginx, Icecast&Libretime server, Apache2)
+React.js SPA, Webpack, Sass, Amazon S3
 
-**[IKIT Labaratory](https://ikitlab.com/)** (October, 2017 – April, 2018)
+**Sever** //
+site: [sever.network](http://sever.network/), code: [github](https://github.com/sever-token/sever-token.github.io)
 
-– [Trucker](https://www.trucker.group/) (Vue.js, Slim, Sass, Webpack, Rails)
+Vanila.js
 
-– [Runmates](https://runmates.com/) (JS, Slim, Sass, Webpack, Rails, Phrase App, Heroku)
+**NOB Agency** //
+site: [nobagency.com](http://nobagency.com/), code: [github](https://github.com/nobagency/nobagency.github.io)
+
+Vanila.js
+
+**Computer Craphics** //
+site: [computercraphics.com](http://computercraphics.com/), code: [github](https://github.com/ComputerCraphics/computercraphics.github.io)
+
+React.js SPA, Webpack, Sass
+
+**MI University** //
+site: [mi.university](https://mi.university/)
+
+Rails, Sidekiq, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, Postgres
+
+**syg.ma radio** //
+site: [radio.syg.ma](https://radio.syg.ma/)
+
+API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA, Libretime&Icecast server, Apache2
+
+#### IKIT Labaratory, [ikitlab.com](https://ikitlab.com/) (October, 2017 – April, 2018)
+
+**RunMates** –
+site: [runmates.com](https://runmates.com/)
+
+Rails, Webpack, ES6, Sass
+
+**Trucker** –
+site: [trucker.group](https://www.trucker.group/)
+
+Rails, ES6, Vue.js, Sass, Google Maps API, Yandex Maps API
