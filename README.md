@@ -2,8 +2,8 @@ Andrey Drachev
 ====================
 
 ### Contact
+**Telegram** –  [t.me/dddrey](http://t.me/dddrey) //
 **Email** – [drachyov.andrew@gmail.com](drachyov.andrew@gmail.com)
-**Telegram** –  [t.me/dddrey](http://t.me/dddrey)
 
 ### About
 I'm a self-taught full stack developer specialized on a web. You can check a brief story about me [here](https://generationp.themoscowtimes.com/andrei/).
@@ -29,8 +29,8 @@ I'm a self-taught full stack developer specialized on a web. You can check a bri
 // stack: API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA, Libretime&Icecast server, Apache2
 
 #### IKIT Labaratory, [ikitlab.com](https://ikitlab.com/) (October, 2017 – April, 2018)
-**RunMates** – site: [runmates.com](https://runmates.com/)
+**RunMates** // site: [runmates.com](https://runmates.com/)
 // stack: Rails, Webpack, ES6, Sass
 
-**Trucker** – site: [trucker.group](https://www.trucker.group/)
+**Trucker** // site: [trucker.group](https://www.trucker.group/)
 // stack: Rails, ES6, Vue.js, Sass, Google Maps API, Yandex Maps API
