@@ -2,14 +2,14 @@ Andrey Drachev
 ====================
 
 ### Contact
-**Telegram** –  [t.me/dddrey](http://t.me/dddrey) //
-**Email** – [drachyov.andrew@gmail.com](drachyov.andrew@gmail.com)
+**Email** – [drachyov.andrew@gmail.com](drachyov.andrew@gmail.com) //
+**Telegram** –  [t.me/dddrey](http://t.me/dddrey)
 
 ### About
 I'm a self-taught full stack developer specialized on a web. You can check a brief story about me [here](https://generationp.themoscowtimes.com/andrei/).
 
 ### Work
- #### Freelance (November, 2016 – till now)
+#### // Freelance (November, 2016 – till now)
 **Фосфор** // site: [4s4r.ru](http://4s4r.ru/), code: [github](https://github.com/4s4r/4s4r.github.io/tree/develop)
 // stack: React.js SPA, Webpack, Sass, Amazon S3
 
@@ -28,7 +28,7 @@ I'm a self-taught full stack developer specialized on a web. You can check a bri
 **syg.ma radio** // site: [radio.syg.ma](https://radio.syg.ma/)
 // stack: API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA, Libretime&Icecast server, Apache2
 
-#### IKIT Labaratory, [ikitlab.com](https://ikitlab.com/) (October, 2017 – April, 2018)
+#### // IKIT Labaratory, [ikitlab.com](https://ikitlab.com/) (October, 2017 – April, 2018)
 **RunMates** // site: [runmates.com](https://runmates.com/)
 // stack: Rails, Webpack, ES6, Sass
 
