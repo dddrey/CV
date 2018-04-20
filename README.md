@@ -15,7 +15,7 @@ I'm a self-taught full stack developer specialized on a web. You can check a bri
 **Sever** // site: [sever.network](http://sever.network/), code: [github](https://github.com/sever-token/sever-token.github.io)
 // stack: Vanila.js <br>
 **NOB Agency** // site: [nobagency.com](http://nobagency.com/), code: [github](https://github.com/nobagency/nobagency.github.io)
-// Vanila.js <br>
+// stack: Vanila.js <br>
 **Computer Craphics** // site: [computercraphics.com](http://computercraphics.com/), code: [github](https://github.com/ComputerCraphics/computercraphics.github.io)
 // stack: React.js SPA, Webpack, Sass <br>
 **MI University** // site: [mi.university](https://mi.university/)
