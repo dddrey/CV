@@ -26,7 +26,11 @@ I'm a self-taught full stack developer specialized on a web. You can check a bri
 // stack: Rails, Sidekiq, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, Postgres
 
 **syg.ma radio** // site: [radio.syg.ma](https://radio.syg.ma/)
-// stack: API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA, Libretime&Icecast server, Apache2
+// stack:
+
+Server 1. – API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA; <br>
+Server 2. – Libretime&Icecast server, Apache2; <br>
+Server 3. – Nginx proxy for Rails&Libretime servers (because of Roskomnadzor IP banning)
 
 #### // IKIT Labaratory, [ikitlab.com](https://ikitlab.com/) (October, 2017 – April, 2018)
 **RunMates** // site: [runmates.com](https://runmates.com/)
