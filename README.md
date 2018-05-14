@@ -10,15 +10,15 @@ I'm a self-taught full stack developer specialized on a web. You can check a bri
 
 ### Work
 #### Freelance (November, 2016 – till now)
-**Фосфор** // site: [4s4r.ru](http://4s4r.ru/), code: [github](https://github.com/4s4r/4s4r.github.io/tree/develop)
+**Фосфор** // site: [4s4r.ru](http://4s4r.ru/) // code: [github](https://github.com/4s4r/4s4r.github.io/tree/develop)
 // stack: React.js SPA, Webpack, Sass, Amazon S3 <br>
-**Sever** // site: [sever.network](http://sever.network/), code: [github](https://github.com/sever-token/sever-token.github.io)
+**Sever** // site: [sever.network](http://sever.network/) // code: [github](https://github.com/sever-token/sever-token.github.io)
 // stack: Vanila.js <br>
-**NOB Agency** // site: [nobagency.com](http://nobagency.com/), code: [github](https://github.com/nobagency/nobagency.github.io)
+**NOB Agency** // site: [nobagency.com](http://nobagency.com/) // code: [github](https://github.com/nobagency/nobagency.github.io)
 // stack: Vanila.js <br>
-**Computer Craphics** // site: [mashademianova.com](https://mashademianova.com/)
+**Computer Craphics** // site: [computercraphics.com](http://computercraphics.com/) // code: [github](https://github.com/ComputerCraphics/computercraphics.github.io)
 // stack: React.js SPA, Webpack, Sass <br>
-**Masha Demianova** // site: [computercraphics.com](http://computercraphics.com/), code: [github](https://github.com/ComputerCraphics/computercraphics.github.io)
+**Masha Demianova** // site: [mashademianova.com](https://mashademianova.com/)
 // stack: Rails, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres  <br>
 **MI University** // site: [mi.university](https://mi.university/)
 // stack: Rails, Sidekiq, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, Postgres <br>
