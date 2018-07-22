@@ -1,6 +1,3 @@
-Andrey Drachev
-====================
-
 ### Contact
 **Telegram** –  [t.me/dddrey](http://t.me/dddrey) <br>
 **Email** – [drachyov.andrew@gmail.com](drachyov.andrew@gmail.com)
