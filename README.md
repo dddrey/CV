@@ -22,11 +22,14 @@ I'm a self-taught full stack developer specialized on a web. You can check a bri
 // stack: Rails, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres  <br>
 **MI University** // site: [mi.university](https://mi.university/)
 // stack: Rails, Sidekiq, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, Postgres <br>
-**syg.ma radio** // site: [radio.syg.ma](https://radio.syg.ma/)
+**Syg.ma radio** // site: [radio.syg.ma](https://radio.syg.ma/)
 // stack: <br>
 Server 1. – API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA; <br>
 Server 2. – Libretime&Icecast server, Apache2; <br>
-Server 3. – Nginx proxy for Rails&Libretime servers (because of Roskomnadzor IP banning)
+Server 3. – Nginx proxy for Rails&Libretime servers (because of Roskomnadzor IP banning) <br>
+**Citadel** // site: [citadel.li](https://citadel.li/) // tasks: <br>
+– Citadel gateway integration for the BitShares Blockchain // code: [github](https://github.com/bitshares/bitshares-ui/pull/1695/files) // site: [citadel.li/wallet](https://citadel.li/wallet/#/) <br>
+– Citadel merchant for BitShares api integration (in progress) // site: [citadel.li/merchant](https://citadel.li/merchant/)
 
 #### IKIT Labaratory, [ikitlab.com](https://ikitlab.com/) (October, 2017 – April, 2018)
 **RunMates** // site: [runmates.com](https://runmates.com/)
