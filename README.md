@@ -1,9 +1,5 @@
-Andrey Drachev
-====================
-
 ### Contact
 **Telegram** –  [t.me/dddrey](http://t.me/dddrey) <br>
-**Email** – [drachyov.andrew@gmail.com](drachyov.andrew@gmail.com)
 
 ### About
 I'm a self-taught full stack developer specialized on a web. You can check a brief story about me [here](https://generationp.themoscowtimes.com/andrei/).
