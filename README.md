@@ -22,6 +22,7 @@ I'm a self-taught full stack developer specialized on a web.
 
 #### Cloud
 
+-   Linode
 -   Digital Ocean
 -   Amazon S3
 
