@@ -76,6 +76,7 @@ Task 2. – Citadel merchant for BitShares api integration – site: [citadel.li
 **RunMates** <br>
 - site // [runmates.com](https://runmates.com/) <br>
 - technologies // Rails, Webpack, ES6, Sass <br>
+
 **Trucker** <br>
 - site // [trucker.group](https://www.trucker.group/) <br>
 - technologies // Rails, ES6, Vue.js, Sass, Google Maps API, Yandex Maps API <br>
