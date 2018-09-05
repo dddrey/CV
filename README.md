@@ -2,6 +2,7 @@
 
 ### Contact
 **Telegram** –  [t.me/dddrey](http://t.me/dddrey) <br>
+**E-mail** –  [drachyov.andrew@gmail.com](mailto:drachyov.andrew@gmail.com) <br>
 
 ### About
 I'm a self-taught full stack developer specialized on a web.
