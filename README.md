@@ -67,6 +67,10 @@ I'm a self-taught full stack developer specialized on a web.
 - site // [runmates.com](https://runmates.com/) <br>
 - technologies // Rails, Webpack, ES6, Sass <br>
 
+**Sex is Pure** (September, 2018 – October, 2018) <br>
+- site // [sexispure.com](https://sexispure.com/) <br>
+- technologies // Rails, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres <br>
+
 **Syg.ma radio** (March, 2018 – till now) <br>
 - site // [radio.syg.ma](https://radio.syg.ma/) <br>
 - technologies // <br>
