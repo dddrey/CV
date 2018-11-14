@@ -71,6 +71,10 @@ I'm a self-taught full stack developer specialized on a web.
 - site // [sexispure.com](https://sexispure.com/) <br>
 - technologies // Rails, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres <br>
 
+**Bell'arte** (September, 2018 – October, 2018) <br>
+- site // [bellarte.ru](http://172.104.148.129:3000/) <br>
+- technologies // Rails, Turbolinks, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, Postgres <br>
+
 **Syg.ma radio** (March, 2018 – till now) <br>
 - site // [radio.syg.ma](https://radio.syg.ma/) <br>
 - technologies // <br>
