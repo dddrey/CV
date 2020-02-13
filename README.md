@@ -17,6 +17,7 @@ I'm a self-taught full stack developer specialized on a web.
 -   Deployment
 -   Nginx
 -   Postgres
+-   Elasticsearch
 
 #### Front-end
 
@@ -32,6 +33,10 @@ I'm a self-taught full stack developer specialized on a web.
 
 
 ### Work
+**ORPK** (August, 2018 – till now), [studio.syg.ma](https://studio.syg.ma) <br>
+- site // [orpk.org](https://orpk.org/) <br>
+- technologies // Rails, Postgres, Sidekiq, Elasticsearch, Deployment, Nginx, Ubuntu 
+
 **Blizkie** (December, 2018 – till now), [blizkie.ru](https://blizkie.ru) <br>
 - site // [blizkie.ru](https://blizkie.ru/) <br>
 - technologies // Rails, Postgres, Sidekiq, Deployment, ES6, React Native, Redux, Webpack, WebSockets, Chats, Nginx, Ubuntu, Travis
