@@ -21,6 +21,7 @@ I'm a self-taught full stack developer specialized on a web.
 
 #### Front-end
 
+-   React Native
 -   React.js
 -   Webpack
 -   Vue.js
