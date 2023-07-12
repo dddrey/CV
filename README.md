@@ -42,7 +42,7 @@ Currently in: Tbilisi, Georgia
 ### Work
 **[Self Studio](https://www.selfstudio.se/)** (2021 – now)
 
-I work as a part-time backend developer here. Used to develop an MVP for [LabClick](https://www.labclick.ru/). Now engaged in full-cycle development at [Teleporting](https://teleporting.com/) , mostly doing backend in **Nest.js**
+I work as a part-time backend developer here. Used to develop an MVP for [LabClick](https://www.labclick.ru/). Now engaged in full-cycle development at [Teleporting](https://teleporting.com/) , mostly doing backend on **Nest.js**, but also working closly with DevOps team in planning & managing our Kubernetes cluster infrastructure
 
 **[Syg.ma](https://syg.ma)** (2018 – now)
 
