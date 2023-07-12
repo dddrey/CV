@@ -11,9 +11,11 @@ Self-taught full stack developer specialized on a web.
 #### Back-end
 
 - Javascript (Node.js, ES6, Typescript)
-- Ruby
+- Ruby (Rails)
 - Postgresql
 - Redis
+- GraphQL, REST, WebSockets
+- Jobs, Crons
 - Python & Bash scripting
 
 #### Front-end
@@ -26,7 +28,7 @@ Self-taught full stack developer specialized on a web.
 
 #### Infrastructure
 
--   Ubuntu server administration
+-   Linux server administration
 -   Docker
 -   CI
 
