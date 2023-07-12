@@ -40,7 +40,7 @@ I work as a part-time backend developer here. Used to develop an MVP for [LabCli
 **[Syg.ma](https://syg.ma)** (2018 – now)
 
 Together with a team of friends we run this cultural organization. Central to this initiative is a multilingual media platform, powered by community of contributors and readers. Another big part of it is radio.syg.ma - independent label, music & broadcasting platform(we organize and held offline events aswell!). Also it has many subprojects which could be found [here](https://studio.syg.ma/). 
-I did a migration from a old Rails (4) monolith to a new more flexible microservice-like architecture. Implemented an image optimization backend served through CDN, **Graphql**, **WebSockets**, Jobs as **Nest.js** services,  **CEO** & **database** optimization, **containerized infrastructure**, audio streaming (we have self-hosted solution), I did some [web-archiving](https://archive.syg.ma/) also. Managed to do several migrations of whole infrastructure "From cloud to another cloud". Responsible for all technical parts of the projects.
+I did a migration from a old Rails (4) monolith to a new more flexible microservice-like architecture. Implemented an image optimization backend served through CDN, **Graphql**, **WebSockets**, Jobs as **Nest.js** services,  **SEO** & **database** optimization, **containerized infrastructure**, audio streaming (we have self-hosted solution), I did some [web-archiving](https://archive.syg.ma/) also. Managed to do several migrations of whole infrastructure "From cloud to another cloud". Responsible for all technical parts of the projects.
 
 **[ORPK](https://orpk.org/)** (2020)
 
