@@ -8,7 +8,6 @@ Currently in: Tbilisi, Georgia
 **E-mail** –  [dev.drachev@gmail.com](mailto:dev.drachev@gmail.com) 
 
 ### Skills
-
 #### Back-end
 
 - Javascript (Node.js, ES6, Typescript)
@@ -33,8 +32,8 @@ Currently in: Tbilisi, Georgia
 -   Docker
 -   CI
 
-#### Interests
 
+### Interests
 * Architecture
 * High-load applications
 * Microservice development
