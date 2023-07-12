@@ -1,103 +1,60 @@
-## Andrey Drachev
+
+## Andrei Drachev
+Self-taught full stack developer specialized on a web.
 
 ### Contact
-**Telegram** –  [t.me/dddrey](http://t.me/dddrey) <br>
-**E-mail** –  [drachyov.andrew@gmail.com](mailto:drachyov.andrew@gmail.com) <br>
-
-### About
-I'm a self-taught full stack developer specialized on a web.
+**Telegram** –  [t.me/dddrey](http://t.me/dddrey) 
+**E-mail** –  [dev.drachev@gmail.com](mailto:dev.drachev@gmail.com) 
 
 ### Skills
 
 #### Back-end
 
--   Ruby
--   Python
--   Ubuntu
--   Deployment
--   Nginx
--   Postgres
--   Elasticsearch
+- Javascript (Node.js, ES6, Typescript)
+- Ruby
+- Postgresql
+- Redis
+- Python & Bash scripting
 
 #### Front-end
 
--   React Native
--   React.js
--   Webpack
--   Vue.js
+- React Native
+- Javascript (React.js, ES6, Typescript)
+- CEO
+- pipelining
 
-#### Cloud
 
--   Linode
--   Digital Ocean
--   Amazon S3
+#### Infrastructure
 
+-   Ubuntu server administration
+-   Docker
+-   CI
 
 ### Work
-**ORPK** (August, 2018 – till now), [studio.syg.ma](https://studio.syg.ma) <br>
-- site // [orpk.org](https://orpk.org/) <br>
-- technologies // Rails, Postgres, Sidekiq, Elasticsearch, Deployment, Nginx, Ubuntu 
+**[Self Studio](https://www.selfstudio.se/)** (2021 – now)
+I work as a part-time backend developer here. Used to develop an MVP for [LabClick](https://www.labclick.ru/). Now engaged in full-cycle development at [Teleporting](https://teleporting.com/) , mostly doing backend in **Nest.js**
 
-**Blizkie** (December, 2018 – till now), [blizkie.ru](https://blizkie.ru) <br>
-- site // [blizkie.ru](https://blizkie.ru/) <br>
-- technologies // Rails, Postgres, Sidekiq, Deployment, ES6, React Native, Redux, Webpack, WebSockets, Chats, Nginx, Ubuntu, Travis
-- applications // <br>
-Application 1. - Rails app for [blizkie.ru](https://blizkie.ru/) platform and API for mobile apps<br>
-Application 2. - React Native app for responses on orders – [iOS](https://apps.apple.com/ru/app/работа-сиделкой/id1455323208) / [Android](https://play.google.com/store/apps/details?id=com.caregiversapp) <br>
-Application 3. - React Native app for nurse reports – [iOS](https://apps.apple.com/ru/app/для-специалистов/id1416592574) / [Android](https://play.google.com/store/apps/details?id=com.reportsapp)
+**[Syg.ma](https://syg.ma)** (2018 – now)
+Together with a team of friends we run this cultural organization. Central to this initiative is a multilingual media platform, powered by community of contributors and readers. Another big part of it is radio.syg.ma - independent label, music & broadcasting platform(we organize and held offline events aswell!). Also it has many subprojects which could be found [here](https://studio.syg.ma/). 
+I did a migration from a old Rails (4) monolith to a new more flexible microservice-like architecture. Implemented an image optimization backend served through CDN, **Graphql**, **WebSockets**, Jobs as **Nest.js** services,  **CEO** & **database** optimization, **containerized infrastructure**, audio streaming (we have self-hosted solution), I did some [web-archiving](https://archive.syg.ma/) also. Managed to do several migrations of whole infrastructure "From cloud to another cloud". Responsible for all technical parts of the projects.
 
-**Syg.ma** (May, 2019 – till now), [studio.syg.ma](https://studio.syg.ma) <br>
-- site // [syg.ma](https://syg.ma/) <br>
-- technologies // Rails, Postgres, Sidekiq, Deployment, Nginx, Ubuntu 
+**[ORPK](https://orpk.org/)** (2020)
+ORPK is a vast database housing hidden, rare, and significant books spanning centuries.
+It has a **Rails** backend, a bit of **React** frontend and **Elastic** for search. To enhance discoverability and SEO, there's  image-to-text service, extracting valuable text from quotes, book pages, and giving it to search-engine robots.
 
-**Syg.ma radio** (March, 2018 – till now), [studio.syg.ma](https://studio.syg.ma) <br>
-- site // [radio.syg.ma](https://radio.syg.ma/) <br>
-- technologies // API on Rails, Deployment, Nginx, Ubuntu, Webpack, Sass, React.js SPA, Libretime&Icecast server, Apache2
+**[Blizkie](https://blizkie.ru)** (2018 – 2020) 
+Blizkie was a project providing a service for finding caregivers for people who needs in them or registering as a caregiver worker. It had a markeplace with chats, support, rating systems and etc, [separate app for workers](https://play.google.com/store/apps/details?id=com.caregiversapp), CRM, Analytics. It had about 10k employees(caregivers) and about 20k/month orders a month.
+I used to be a single developer there, so I was implementing **iOS** and **Android** apps, marketplace **Fronted**, **Rails** Backend for both apps, **database** management(we had our own implementation of Geocoding for e.x.), **staged infrustructure**, **CI**, **Server Administration**. Also I was fighting with stupid government firewall decisions and we were successfully bypassing them and I think I can't remember a lot more cases, in a nutshell, it was a startup in all its glory...
 
-**Citadel** (June, 2018 – till now) <br>
-- site // [citadel.li](https://citadel.li/) <br>
-- technologies // React.js, Webpack <br>
-- tasks // <br>
-Task 1. – Citadel gateway integration for the BitShares Blockchain –
-code: [github](https://github.com/bitshares/bitshares-ui/pull/1695/files) // site: [citadel.li/wallet](https://citadel.li/wallet/#/) <br>
-Task 2. – Citadel merchant for BitShares api integration – site: [citadel.li/merchant](https://citadel.li/merchant/)
+[**Doha Prize 2020**](https://web.archive.org/web/20211129230959/https://dalp.online/) (archived and closed now) 
+This was a project for International Arabic Language Competition. 
+I had around 40 docx documents which were storing the quizes information in Arabics ligature fromatted as hell. 4k question-answers pairs were successfully parsed, quiz-randomized system was implemented and competition had 10k+ participants as I remeber. Some code is available at [github](https://github.com/dddrey/DALP)
 
-**MI University** (October, 2017 – June, 2018) <br>
-- site // [mi.university](https://mi.university/) <br>
-- technologies // Rails, Sidekiq, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres
+**Citadel** (June, 2018 – 2019) 
+Citadel is a group of crypto-enthusiast people who are really into anonymity. They had a cold wallet for such coins as Monero, ZCash and FILF. I've been implementing a gateway integration with [BitShares](https://wallet.bitshares.org) blockchain platform, so people could exchange this coins with any other coins via tokens. Unfortunately this project is closed now, I could only find an archived [landing page](https://web.archive.org/web/20211126231157/https://citadel.li/) and my [PR](https://github.com/bitshares/bitshares-ui/pull/1695/files)
 
-**Sex is Pure** (September, 2018 – October, 2018) <br>
-- site // [sexispure.com](https://sexispure.com/) <br>
-- technologies // Rails, Sidekiq, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres
+**Some projects I've been making in a far, far past (~2016-2018)**
+I want to mention them because these projects helped me to start my dev journey. From a frontend developer to growing as a FullStack expert.
 
-**Masha Demianova** <br>
-- site // [mashademianova.com](https://mashademianova.com/) <br>
-- technologies // Rails, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, React.js, Postgres
-
-**Trucker** (October, 2017 – March, 2018), [IKIT Labaratory](https://ikitlab.com/) <br>
-- site // [trucker.group](https://www.trucker.group/) <br>
-- technologies // Rails, ES6, Vue.js, Sass, Google Maps API, Yandex Maps API
-
-**RunMates** (April, 2018), [IKIT Labaratory](https://ikitlab.com/) <br>
-- site // [runmates.com](https://runmates.com/) <br>
-- technologies // Rails, Webpack, ES6, Sass
-
-**Bell'arte** (September, 2018 – October, 2018) <br>
-- site // [bellarte.ru](https://bellarte.ru/) <br>
-- technologies // Rails, Turbolinks, Deployment, Nginx, Ubuntu, Webpack, ES6, Sass, Postgres
-
-**Фосфор** <br>
-- site // [4s4r.ru](http://4s4r.ru/) <br>
-- code // [github](https://github.com/4s4r/4s4r.github.io/tree/develop) <br>
-- technologies // React.js SPA, Webpack, Sass, Amazon S3
-
-**Computer Craphics** <br>
-- site // [computercraphics.com](http://computercraphics.com/) <br>
-- code // [github](https://github.com/ComputerCraphics/computercraphics.github.io) <br>
-- technologies // React.js SPA, Webpack, Sass
-
-**Sever** <br>
-- site // [sever.network](http://sever.network/) <br>
-- code // [github](https://github.com/sever-token/sever-token.github.io) <br>
-- technologies // Vanila.js
-
+[4s4r.ru](http://4s4r.ru/) , [ComputerCraphics](https://computercraphics.github.io/) , [Sever.Network](https://sever-token.github.io/) , [mashademianova.com](https://mashademianova.com/) , [trucker.group](https://landing.trucker.group/) , [bellarte.ru](https://bellarte.ru/), [mi.university](https://mi.university/)
+[pure.app](https://pure.app/ru/) and their media platform [sexispure](https://web.archive.org/web/20180824004555/https://sexispure.com/) (archived and closed now)
