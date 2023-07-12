@@ -1,6 +1,7 @@
 
 ## Andrei Drachev
-Self-taught full stack developer specialized on a web.
+Self-taught full stack developer specialized on a web. <br>
+Currently in: Tbilisi, Georgia
 
 ### Contact
 **Telegram** –  [t.me/dddrey](http://t.me/dddrey) <br>
@@ -20,10 +21,10 @@ Self-taught full stack developer specialized on a web.
 
 #### Front-end
 
-- React Native
 - Javascript (React.js, ES6, Typescript)
 - SEO
 - pipelining
+- React Native
 
 
 #### Infrastructure
@@ -31,6 +32,13 @@ Self-taught full stack developer specialized on a web.
 -   Linux server administration
 -   Docker
 -   CI
+
+### Interests
+
+* Architecture
+* High-load applications
+* Microservice development
+* DevOps
 
 ### Work
 **[Self Studio](https://www.selfstudio.se/)** (2021 – now)
