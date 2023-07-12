@@ -20,7 +20,7 @@ Self-taught full stack developer specialized on a web.
 
 - React Native
 - Javascript (React.js, ES6, Typescript)
-- CEO
+- SEO
 - pipelining
 
 
