@@ -1,76 +1,128 @@
 
-## Andrei Drachev
-Self-taught full stack developer specialized on a web. <br>
-Currently in: Tbilisi, Georgia
+# Andrei Drachev
 
-### Contact
-**Telegram** –  [t.me/dddrey](http://t.me/dddrey) <br>
-**E-mail** –  [dev.drachev@gmail.com](mailto:dev.drachev@gmail.com) 
-
-### Skills
-#### Back-end
-
-- Javascript (Node.js, ES6, Typescript)
-- Ruby (Rails)
-- Postgresql
-- Redis
-- GraphQL, REST, WebSockets
-- Jobs, Crons
-- Python & Bash scripting
-
-#### Front-end
-
-- Javascript (React.js, ES6, Typescript)
-- SEO
-- pipelining
-- React Native
+****Age:**** 25   
+****Location:**** Tbilisi, Georgia  
+****Position:**** Software Engineer with 5+ years of experience  
 
 
-#### Infrastructure
+## Contacts
+****Telegram:**** [@dddrey](http://t.me/dddrey)   
+****Email:**** dev.drachev@gmail.com          
+****LinkedIn:**** [Andrei Drachev](https://www.linkedin.com/in/andrei-drachev-6727a1139/)       
+ 
 
--   Linux server administration
--   Docker
--   CI
+## Profile
 
+Full-stack engineer with over five years of experience. I love to digitalize and automate processes, solving complex problems, and exploring a broad range of technical areas. I specialize in backend, frontend, and DevOps, offering a versatile skill set that covers development, architecture, and infrastructure management.
 
-### Interests
-* Architecture
-* High-load applications
-* Microservice development
-* DevOps
+ 
 
-### Work
-**[Self Studio](https://www.selfstudio.se/)** (2021 – now)
+## Relevant Skills
 
-I work as a part-time backend developer here. Used to develop an MVP for [LabClick](https://www.labclick.ru/). Now engaged in full-cycle development at [Teleporting](https://teleporting.com/) , mostly doing backend on **Nest.js**, but also working closly with DevOps team in planning and managing our **Kubernetes** cluster infrastructure
+JavaScript, Node.js, TypeScript, Nest.js, Adonis.js, Next.js, React.js, Docker, Server Administration, CI/CD, REST APIs, PostgreSQL, Prisma, TypeORM, Redis, Ruby, Rails, GraphQL, WebSockets, SEO, Image Optimization, Audio Streaming
 
-**[Syg.ma](https://syg.ma)** (2018 – now)
+  
 
-Together with a team of friends we run this cultural organization. Central to this initiative is a multilingual media platform, powered by community of contributors and readers. Another big part of it is [radio.syg.ma](https://radio.syg.ma/) - independent label, music & broadcasting platform(we organize and held offline events aswell!). Also it has many subprojects which could be found [here](https://studio.syg.ma/). 
-I did a migration from a old Rails (4) monolith to a new more flexible microservice-like architecture. Implemented an image optimization backend served through CDN, **Graphql**, **WebSockets**, Jobs as **Nest.js** services,  **SEO** & **database** optimization, **containerized infrastructure**, audio streaming (we have self-hosted solution), I did some [web-archiving](https://archive.syg.ma/) also. Managed to do several migrations of whole infrastructure "From cloud to another cloud". Responsible for all technical parts of the projects.
+## Experience
 
-**[ORPK](https://orpk.org/)** (2020)
+### [Syg.ma](https://syg.ma)
 
-ORPK is a vast database housing hidden, rare, and significant books spanning centuries.
-It has a **Rails** backend, a bit of **React** frontend and **Elastic** for search. To enhance discoverability and SEO, there's  image-to-text service, extracting valuable text from quotes, book pages, and giving it to search-engine robots.
+****Position:**** Co-Founder, Technical Lead   
+****Dates:**** 2018 – Present   
+****Technologies:**** Nest.js, Next.js, Docker, CI/CD, GraphQL, Postgresql, Redis, SEO, Web Archiving, Ruby on Rails, Libretime, Data migration
 
-**[Blizkie](https://blizkie.ru)** (2018 – 2020) 
+I made migration from a legacy Rails monolith to a distributed microservice architecture, introducing GraphQL, WebSockets, SEO, and optimization for improved scalability and data efficiency.
 
-Blizkie was a project providing a service for finding caregivers for people who needs in them or registering as a caregiver worker. It had a markeplace with chats, support, rating systems and etc, [separate app for workers](https://play.google.com/store/apps/details?id=com.caregiversapp), CRM, Analytics. It had about 10k employees(caregivers) and about 20k/month orders a month.
-I used to be a single developer there, so I was implementing **iOS** and **Android** apps, marketplace **Fronted**, **Rails** Backend for both apps, **database** management(we had our own implementation of Geocoding for e.x.), **staged infrustructure**, **CI**, **Server Administration**. Also I was fighting with stupid government firewall decisions and we were successfully bypassing them and I think I can't remember a lot more cases, in a nutshell, it was a startup in all its glory...
+Architected [radio.syg.ma](https://radio.syg.ma), an independent media and broadcasting platform, implementing audio streaming and self-hosted infrastructure for resilience and scalability (we stream offline events too!).
 
-[**Doha Prize 2020**](https://web.archive.org/web/20211129230959/https://dalp.online/) (archived and closed now) 
+All the projects at our [studio.syg.ma](https://studio.syg.ma/) were also architected, developed and launched by me
 
-This was a project for International Arabic Language Competition.
-I had around 40 docx documents which were storing the quizes information in Arabics ligature fromatted as hell. 4k question-answers pairs were successfully parsed, quiz-randomized system was implemented and competition had 10k+ participants as I remeber. Some code is available at [github](https://github.com/dddrey/DALP)
+  
 
-**Citadel** (June, 2018 – 2019) 
+### [Staffer](https://staffer.space/)
 
-Citadel is a group of crypto-enthusiast people who are really into anonymity. They had a cold wallet for such coins as Monero, ZCash and FILF. I've been implementing a gateway integration with [BitShares](https://wallet.bitshares.org) blockchain platform, so people could exchange this coins with any other coins via tokens. Unfortunately this project is closed now, I could only find an archived [landing page](https://web.archive.org/web/20211126231157/https://citadel.li/) and my [PR](https://github.com/bitshares/bitshares-ui/pull/1695/files)
+****Position:**** Fullstack Developer   
+****Dates:**** 2024   
+****Technologies:**** Adonis.js, PostgreSQL, Next.js, Docker, CI/CD, Prisma, Graphs data, React-Admin
 
-**Some projects I've been making in a far, far past (~2016-2018)**
+Developed a platform to manage employee scheduling, time tracking, payouts, notifications and a lot of data visualisation using a modular backend with Adonis.js. Integrated React-Admin for robust, dynamic frontend interfaces.
 
-I want to mention them because these projects helped me to start my dev journey.
+  
 
-[4s4r.ru](http://4s4r.ru/) , [ComputerCraphics](https://computercraphics.github.io/) , [Sever.Network](https://sever-token.github.io/) , [mashademianova.com](https://mashademianova.com/) , [trucker.group](https://landing.trucker.group/) , [bellarte.ru](https://bellarte.ru/), [mi.university](https://mi.university/) <br>
-[pure.app](https://pure.app/ru/) and their media platform [sexispure](https://web.archive.org/web/20180824004555/https://sexispure.com/) (archived and closed now)
+### [Teleporting](https://teleporting.com/)
+
+****Position:**** Backend Developer   
+****Dates:**** 2023   
+****Technologies:**** Nest.js, PostgreSQL, Payments, Docker, CI/CD, Microservices, Prisma
+
+A super app offering housing rentals, travel tours bookings, online tickets for sports and cultural events, and messaging features.
+
+  
+
+### [Labclick](https://www.labclick.ru/)
+
+****Position:**** Backend Developer  
+****Dates:**** 2022  
+****Technologies:**** Nest.js, PostgreSQL, Payments, Docker
+
+Engineered backend solutions for at-home medical testing, focusing on data security and API integrations for client and lab communications.
+
+  
+
+### [ORPK](https://orpk.org/)
+
+****Position:**** Fullstack Developer   
+****Dates:**** 2020   
+****Technologies:**** Ruby on Rails, PostgreSQL, Sidekiq, React.js 
+
+Developed a Rails-based, large-scale book repository with payments, subscriptions system, image-to-text processing, SEO 
+  
+
+### [Blizkie](https://blizkie.ru)
+
+****Position:**** Full-Stack Lead Developer     
+****Dates:**** 2018-2020.     
+****Technologies:**** Ruby on Rails, React.js, REST APIs, PostgreSQL, Redis, React Native, Maps APIs, DevOps, CI/CD  
+
+A C2C marketplace where you can find caregivers or become one. It has chats, support, rating systems, payments, [separate app for workers](https://play.google.com/store/apps/details?id=com.caregiversapp), CRM, Analytics. It had about 10k employees(caregivers) and about 20k/month orders a month. I used to be a single developer there, so I was implementing **iOS** and **Android** apps, marketplace **Fronted**, **Rails** Backend for both apps, **database** management(we had our own implementation of Geocoding for e.x.), **staged infrustructure**, **CI**, **Server Administration**,  also I was fighting with stupid government firewall decisions and we were successfully bypassing them and I think I can't remember a lot more cases, in a nutshell, it was a startup in all its glory...
+
+  
+
+### [Doha Prize](https://web.archive.org/web/20211129230959/https://dalp.online/)
+
+****Position:**** Developer  
+****Dates:**** 2020  
+****Technologies:**** Ruby on Rails, React.js
+
+Built a contest platform for the International Arabic Language Competition with features like Arabic document parsing(4k+ documents), randomized quiz generation, and participant management for over 10,000 users.
+
+  
+
+### [tracker.group](https://landing.trucker.group/#/)
+
+****Position:**** Full-Stack Developer  
+****Dates:**** 2019  
+****Technologies:**** Ruby on Rails, Vue.js, PostgreSQL, Redis
+
+Developed a logistics marketplace for truckers and cargo owners, creating Rails-based backend and Vue.js frontend, with interactive Maps API integrations for route planning.
+
+  
+
+### [mi.university](https://mi.university/)
+
+****Position:**** Full-Stack Developer  
+****Dates:**** 2019   
+****Technologies:**** Ruby on Rails, React.js
+
+Media platform for Moscow International University. While developing cycle was trivial, the client needed to host it on his own servers, so i had a chance to build the hardware and software parts
+
+  
+
+### [Citadel](https://wallet.bitshares.org)
+
+****Position:**** Developer  
+****Dates:**** 2018   
+****Technologies:**** React.js, BitShares API
+
+Integrated cryptocurrency wallet features with the BitShares blockchain, [collaborating](https://github.com/bitshares/bitshares-ui/pull/1695/files) on API enhancements and blockchain integrations for the open-source BitShares UI.
